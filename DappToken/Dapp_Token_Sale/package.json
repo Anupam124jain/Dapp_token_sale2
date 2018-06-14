@@ -1,0 +1,17 @@
+{
+	"name": "dapp-token-sell",
+	"version": "1.0.0",
+	"description": "Dapp Token Sale ICO",
+	"main": "trufffle.js",
+	"directories": {
+		"test": "test"
+	},
+	"scripts":{
+		"dev":"lite-server"
+	},
+	"author": "Anupam",
+	"license": "ISC",
+	"devDependencies": {
+		"lite-server": "^2.3.0"
+	}
+}
